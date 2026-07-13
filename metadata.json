@@ -1,0 +1,6 @@
+{
+  "name": "Android Maintenance Tools",
+  "description": "A catalog for Android firmware, drivers, and maintenance tools with an AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
